@@ -1,0 +1,8 @@
+Archivo relacionado al issue #1
+
+Commit para cambiar el tipo de Archivo
+
+
+--- mucho texto y cosas, probablemente mas archivos
+
+cerrado del issue

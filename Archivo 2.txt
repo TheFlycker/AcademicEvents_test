@@ -1,0 +1,3 @@
+Archivo Relacionado al issue #2
+
+commit para cambiar el tipo de archivo y relacionarlo al issue n7
