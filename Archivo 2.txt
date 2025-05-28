@@ -6,3 +6,5 @@ commit para cambiar el tipo de archivo y relacionarlo al issue n7
 segundo commit, esta vez para cerrarlo
 
 tercer commit, dado que el segundo solo cerro uno de los issues en vez de los dos
+
+cuarto commit porque aparentemente necesita almoadilla vaya por dios
