@@ -2,4 +2,5 @@ FROM openjdk:24
 COPY . app/
 #aqui se instalaria lo que se necesita de requirements con maven?#
 WORKDIR app
-CMD ["java", "Main"]
+CMD ["java", "main"]
+ 
