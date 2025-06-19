@@ -2,6 +2,6 @@ FROM openjdk:24
 COPY . app/
 #aqui se instalaria lo que se necesita de requirements con maven?#
 WORKDIR app
-RUN javac app.java
-CMD ["java", "app"]
+RUN javac App.java
+CMD ["java", "App"]
 
