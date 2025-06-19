@@ -1,5 +1,5 @@
 FROM openjdk:24
-COPY C:\Users\TheFlycker\Desktop\Facultad\6to año\ingenieria 3\tp 5\AcademicEvents_test\proyecto app/
+COPY . app/
 #aqui se instalaria lo que se necesita de requirements con maven?#
 WORKDIR app
 RUN javac Main.java
